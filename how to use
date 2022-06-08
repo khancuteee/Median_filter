@@ -1,0 +1,3 @@
+1. CONVERT image(jpg) to hex file : use Matlab
+2. Processing on hex files, applying medianfilter algorithm : use verilog
+3. CONVERT hex file to image(jpg) : use Matlab
